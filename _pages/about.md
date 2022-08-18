@@ -8,7 +8,9 @@ profile:
   align: right
   image: profile.jpg
   image_circular: false # crops the image to make it circular
-  more_info: 
+  more_info: >
+    <p>10 King's College Rd, SF 3203
+    <p>Toronto, ON M5T1L1
 
 news: false  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
