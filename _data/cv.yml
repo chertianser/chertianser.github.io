@@ -3,8 +3,9 @@
   contents:
     - name: Full Name
       value: Cher-Tian Ser
+      value: Cher-Tian Ser
     - name: Languages
-      value: English (native), Mandarin (working), Korean, French, Danish, German (elementary)
+      value: English (native), Mandarin (working)
 
 - title: Education
   type: time_table
@@ -17,11 +18,23 @@
     - title: B.Sc (Hons) (Chemistry)
       institution: National University of Singapore, Singapore
       year: 2015 - 2019
+    - title: PhD (Chemistry)
+      institution: University of Toronto, Canada
+      year: 2020 - present
       description:
-        - title: Thesis supervised by Prof. Richard M. W. Wong
+        - Supervised by Alan Aspuru-Guzik
+    - title: B.Sc (Hons) (Chemistry)
+      institution: National University of Singapore, Singapore
+      year: 2015 - 2019
+      description:
+        - title: Thesis supervised by Prof. M. W. Wong
+          contents: 
+          - Lijen Industrial Development Medal (Best Honors Thesis in Chemistry)
+          - 2x Science Dean's List (top 5% of Science cohort)
+        - title: University Scholars Programme (Honors College)
           contents:
-          - Machine learning methods in modelling corrosion inhibition efficiency of organic compounds
-        - University Scholars Programme (Honors College)
+          - Best Performing Student in Sciences and Technology Domain
+          - President's Honor Roll, Senior Honor Roll, Honor Roll
         - Minor in Nanoscience
         - Student Exchange Programme to KAIST, South Korea
 
@@ -31,23 +44,13 @@
     - title: Research Engineer
       institution: Materials Science and Chemistry, IHPC, A*STAR, Singapore
       year: 2019 - 2020
+    - title: Research Engineer
+      institution: Materials Science and Chemistry, IHPC, A*STAR, Singapore
+      year: 2019 - 2020
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2019
-      items:
-        - Lijen Industrial Development Medal (Best Honors Thesis in Chemistry)
-        - USP Best Performing Student in Sciences and Technology Domain
-        - USP President's Honor Roll
-        - Science Dean's List (top 5% of Science cohort)
     - year: 2018
       items: 
         - A*STAR Undergraduate Scholarship (Mid-Term)
-        - Science Dean's List (top 5% of Science cohort)
-    - year: 2017
-      items:
-        - USP Senior Honor Roll
-    - year: 2016
-      items:
-        - USP Honor Roll
