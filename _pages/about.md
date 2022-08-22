@@ -19,6 +19,6 @@ Hello! I am broadly interested in applying <b>computational methods</b> and <b>m
 
 I am currently supervised by [Alan Aspuru-Guzik](http://matter.toronto.edu). 
 
-I was a Research Engineer at the [Institute of High Performance Computing](https://www.a-star.edu.sg/ihpc/ihpc-research-capabilities/materials-science-chemistry) in the [Agency for Science, Technology and Research (A*STAR)](https://www.a-star.edu.sg/) in Singapore. Before this, I graduated with a B.Sc (Hons) in Chemistry from the [National University of Singapore](https://chemistry.nus.edu.sg/). I was also part of the [University Scholars Programme](https://www.usp.nus.edu.sg/), a inter- and multi-disciplinary academic program.
+I was a Research Engineer at the [Institute of High Performance Computing](https://www.a-star.edu.sg/ihpc/ihpc-research-capabilities/materials-science-chemistry) in the [Agency for Science, Technology and Research (A*STAR)](https://www.a-star.edu.sg/) in Singapore. Before this, I graduated with a B.Sc (Hons) in Chemistry from the [National University of Singapore](https://chemistry.nus.edu.sg/). I was also part of the [University Scholars Programme](https://www.usp.nus.edu.sg/), a selective interdisciplinary and multidisciplinary academic program.
 
 
