@@ -4,10 +4,9 @@
     - name: Full Name
       value: Cher-Tian Ser
     - name: Skills
-      value: Quantum Chemistry, Physical Organic Chemistry, Machine Learning, Data Science, Workflow Automation 
+      value: Quantum Chemistry, Physical Organic Chemistry, Machine Learning, Data Science, Workflow Automation
     - name: Languages
       value: English (native), Mandarin (working), Korean (elementary)
-
 
 - title: Education
   type: time_table
@@ -23,7 +22,7 @@
       description:
         - title: Thesis supervised by Prof. Richard M. W. Wong
           contents:
-          - Machine learning methods in modelling corrosion inhibition efficiency of organic compounds
+            - Machine learning methods in modelling corrosion inhibition efficiency of organic compounds
         - University Scholars Programme (Honors College)
         - Minor in Nanoscience
         - Student Exchange Programme to KAIST, South Korea
@@ -67,7 +66,7 @@
         - USP President's Honor Roll
         - Science Dean's List (top 5% of Science cohort)
     - year: 2018
-      items: 
+      items:
         - A*STAR Undergraduate Scholarship (Mid-Term)
         - Science Dean's List (top 5% of Science cohort)
     - year: 2017
