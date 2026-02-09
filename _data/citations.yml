@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-02-06'
+  last_updated: '2026-02-09'
 papers:
   -bvYUPIAAAAJ:-f6ydRqryjwC:
     citations: 3
     title: Does this smell the same? Learning representations of olfactory mixtures using inductive biases
     year: '2025'
   -bvYUPIAAAAJ:2osOgNQ5qMEC:
-    citations: 464
+    citations: 470
     title: Data-driven strategies for accelerated materials design
     year: '2021'
   -bvYUPIAAAAJ:4DMP91E08xMC:
-    citations: 151
+    citations: 154
     title: Delocalized, asynchronous, closed-loop discovery of organic laser emitters
     year: '2024'
   -bvYUPIAAAAJ:9yKSN-GCB0IC:
@@ -22,7 +22,7 @@ papers:
     title: Efficient evolutionary search over chemical space with large language models
     year: '2025'
   -bvYUPIAAAAJ:QIV2ME_5wuYC:
-    citations: 1
+    citations: 2
     title: Bulky phosphine ligands promote palladium-catalyzed protodeboronation
     year: '2025'
   -bvYUPIAAAAJ:TQgYirikUcIC:
@@ -58,15 +58,15 @@ papers:
     title: 'One Set to Rule Them All: How to Obtain General Chemical Conditions via Bayesian Optimization over Curried Functions'
     year: '2025'
   -bvYUPIAAAAJ:mB3voiENLucC:
-    citations: 46
+    citations: 48
     title: 'El Agente: An autonomous agent for quantum chemistry'
     year: '2025'
   -bvYUPIAAAAJ:mVmsd5A6BfQC:
-    citations: 27
+    citations: 26
     title: "Computational Investigations of the Detailed Mechanism of Reverse Intersystem Crossing in Inverted Singlet\u2013Triplet Gap Molecules"
     year: '2024'
   -bvYUPIAAAAJ:qjMakFHDy7sC:
-    citations: 282
+    citations: 287
     title: 'Autonomous chemical experiments: Challenges and perspectives on establishing a self-driving lab'
     year: '2022'
   -bvYUPIAAAAJ:u-x6o8ySG0sC:
