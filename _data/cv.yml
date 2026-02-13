@@ -30,11 +30,11 @@
 - title: Work Experience
   type: time_table
   contents:
-    - title: Machine Learning Intern
+    - title: Machine Learning Research Intern
       institution: Osmo, New York, USA
       year: 2025
       description:
-        - Machine learning models for olfactory properties
+        - Machine learning models for olfactory properties of materials and molecules.
     - title: Research Engineer
       institution: Materials Science and Chemistry, IHPC, A*STAR, Singapore
       year: 2019 - 2020
