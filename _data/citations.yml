@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-03-02'
+  last_updated: '2026-03-30'
 papers:
   -bvYUPIAAAAJ:-f6ydRqryjwC:
-    citations: 3
+    citations: 4
     title: Does this smell the same? Learning representations of olfactory mixtures using inductive biases
     year: '2025'
   -bvYUPIAAAAJ:2osOgNQ5qMEC:
-    citations: 483
+    citations: 495
     title: Data-driven strategies for accelerated materials design
     year: '2021'
   -bvYUPIAAAAJ:4DMP91E08xMC:
-    citations: 171
+    citations: 176
     title: Delocalized, asynchronous, closed-loop discovery of organic laser emitters
     year: '2024'
   -bvYUPIAAAAJ:9yKSN-GCB0IC:
@@ -18,11 +18,11 @@ papers:
     title: 'Designing piezoresistive materials from first-principles: Dopant effects on 3C-SiC'
     year: '2021'
   -bvYUPIAAAAJ:HDshCWvjkbEC:
-    citations: 66
+    citations: 71
     title: Efficient evolutionary search over chemical space with large language models
     year: '2025'
   -bvYUPIAAAAJ:QIV2ME_5wuYC:
-    citations: 2
+    citations: 3
     title: Bulky phosphine ligands promote palladium-catalyzed protodeboronation
     year: '2025'
   -bvYUPIAAAAJ:TQgYirikUcIC:
@@ -46,7 +46,7 @@ papers:
     title: Prediction of corrosion inhibition efficiency of pyridines and quinolines on an iron surface using machine learning-powered quantitative structure-property relationships
     year: '2020'
   -bvYUPIAAAAJ:dhFuZR0502QC:
-    citations: 26
+    citations: 28
     title: 'Spiers Memorial Lecture: How to do impactful research in artificial intelligence for chemistry and materials science'
     year: '2025'
   -bvYUPIAAAAJ:e5wmG9Sq2KIC:
@@ -58,7 +58,7 @@ papers:
     title: 'One Set to Rule Them All: How to Obtain General Chemical Conditions via Bayesian Optimization over Curried Functions'
     year: '2025'
   -bvYUPIAAAAJ:mB3voiENLucC:
-    citations: 56
+    citations: 63
     title: 'El Agente: An autonomous agent for quantum chemistry'
     year: '2025'
   -bvYUPIAAAAJ:mVmsd5A6BfQC:
@@ -66,7 +66,7 @@ papers:
     title: "Computational Investigations of the Detailed Mechanism of Reverse Intersystem Crossing in Inverted Singlet\u2013Triplet Gap Molecules"
     year: '2024'
   -bvYUPIAAAAJ:qjMakFHDy7sC:
-    citations: 292
+    citations: 305
     title: 'Autonomous chemical experiments: Challenges and perspectives on establishing a self-driving lab'
     year: '2022'
   -bvYUPIAAAAJ:u-x6o8ySG0sC:
