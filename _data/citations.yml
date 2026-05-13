@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-04-24'
+  last_updated: '2026-05-13'
 papers:
   -bvYUPIAAAAJ:-f6ydRqryjwC:
-    citations: 5
+    citations: 6
     title: Does this smell the same? Learning representations of olfactory mixtures using inductive biases
     year: '2025'
   -bvYUPIAAAAJ:2osOgNQ5qMEC:
-    citations: 507
+    citations: 513
     title: Data-driven strategies for accelerated materials design
     year: '2021'
   -bvYUPIAAAAJ:4DMP91E08xMC:
-    citations: 187
+    citations: 191
     title: Delocalized, asynchronous, closed-loop discovery of organic laser emitters
     year: '2024'
   -bvYUPIAAAAJ:9yKSN-GCB0IC:
@@ -18,7 +18,7 @@ papers:
     title: 'Designing piezoresistive materials from first-principles: Dopant effects on 3C-SiC'
     year: '2021'
   -bvYUPIAAAAJ:HDshCWvjkbEC:
-    citations: 74
+    citations: 77
     title: Efficient evolutionary search over chemical space with large language models
     year: '2025'
   -bvYUPIAAAAJ:QIV2ME_5wuYC:
@@ -42,11 +42,11 @@ papers:
     title: Uncovering compounds with promising piezoresistive properties via high-throughput first-principles survey
     year: '2023'
   -bvYUPIAAAAJ:d1gkVwhDpl0C:
-    citations: 152
+    citations: 153
     title: Prediction of corrosion inhibition efficiency of pyridines and quinolines on an iron surface using machine learning-powered quantitative structure-property relationships
     year: '2020'
   -bvYUPIAAAAJ:dhFuZR0502QC:
-    citations: 28
+    citations: 29
     title: 'Spiers Memorial Lecture: How to do impactful research in artificial intelligence for chemistry and materials science'
     year: '2025'
   -bvYUPIAAAAJ:e5wmG9Sq2KIC:
@@ -58,7 +58,7 @@ papers:
     title: 'One Set to Rule Them All: How to Obtain General Chemical Conditions via Bayesian Optimization over Curried Functions'
     year: '2025'
   -bvYUPIAAAAJ:mB3voiENLucC:
-    citations: 82
+    citations: 95
     title: 'El Agente: An autonomous agent for quantum chemistry'
     year: '2025'
   -bvYUPIAAAAJ:mVmsd5A6BfQC:
@@ -66,7 +66,7 @@ papers:
     title: "Computational Investigations of the Detailed Mechanism of Reverse Intersystem Crossing in Inverted Singlet\u2013Triplet Gap Molecules"
     year: '2024'
   -bvYUPIAAAAJ:qjMakFHDy7sC:
-    citations: 313
+    citations: 320
     title: 'Autonomous chemical experiments: Challenges and perspectives on establishing a self-driving lab'
     year: '2022'
   -bvYUPIAAAAJ:u-x6o8ySG0sC:
@@ -74,6 +74,6 @@ papers:
     title: "Iodoimidazolinium-catalyzed reduction of quinoline by Hantzsch ester: Halogen bond or Br\xF8nsted acid catalysis"
     year: '2019'
   -bvYUPIAAAAJ:u5HHmVD_uO8C:
-    citations: 10
+    citations: 11
     title: 'Modeling halogen bonding with planewave density functional theory: Accuracy and challenges'
     year: '2019'
