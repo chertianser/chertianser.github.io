@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-07-22'
+  last_updated: '2026-09-04'
 papers:
   -bvYUPIAAAAJ:-f6ydRqryjwC:
-    citations: 8
+    citations: 10
     title: Does this smell the same? Learning representations of olfactory mixtures using inductive biases
     year: '2025'
   -bvYUPIAAAAJ:2osOgNQ5qMEC:
-    citations: 536
+    citations: 560
     title: Data-driven strategies for accelerated materials design
     year: '2021'
   -bvYUPIAAAAJ:4DMP91E08xMC:
-    citations: 214
+    citations: 228
     title: Delocalized, asynchronous, closed-loop discovery of organic laser emitters
     year: '2024'
   -bvYUPIAAAAJ:9yKSN-GCB0IC:
@@ -18,23 +18,27 @@ papers:
     title: 'Designing piezoresistive materials from first-principles: Dopant effects on 3C-SiC'
     year: '2021'
   -bvYUPIAAAAJ:HDshCWvjkbEC:
-    citations: 92
+    citations: 106
     title: Efficient evolutionary search over chemical space with large language models
     year: '2025'
   -bvYUPIAAAAJ:QIV2ME_5wuYC:
-    citations: 5
+    citations: 7
     title: Bulky phosphine ligands promote palladium-catalyzed protodeboronation
     year: '2025'
+  -bvYUPIAAAAJ:RHpTSmoSYBkC:
+    citations: 0
+    title: Bayesian Optimization for General Reaction Conditions
+    year: '2025'
   -bvYUPIAAAAJ:TQgYirikUcIC:
-    citations: 2
+    citations: 3
     title: Bayesian optimization hackathon for chemistry and materials
     year: '2025'
   -bvYUPIAAAAJ:UeHWp8X0CEIC:
-    citations: 7
-    title: Reinforcement learning supercharges redox flow batteries
+    citations: 8
+    title: 'Reinforcement learning supercharges redox flow batteries: MOLECULAR DESIGN'
     year: '2022'
   -bvYUPIAAAAJ:_Qo2XoVZTnwC:
-    citations: 0
+    citations: 2
     title: Photochemical post-functionalization of polystyrene enables accelerated chemical recycling
     year: '2026'
   -bvYUPIAAAAJ:aqlVkmm33-oC:
@@ -42,11 +46,11 @@ papers:
     title: Uncovering compounds with promising piezoresistive properties via high-throughput first-principles survey
     year: '2023'
   -bvYUPIAAAAJ:d1gkVwhDpl0C:
-    citations: 155
+    citations: 159
     title: Prediction of corrosion inhibition efficiency of pyridines and quinolines on an iron surface using machine learning-powered quantitative structure-property relationships
     year: '2020'
   -bvYUPIAAAAJ:dhFuZR0502QC:
-    citations: 34
+    citations: 36
     title: 'Spiers Memorial Lecture: How to do impactful research in artificial intelligence for chemistry and materials science'
     year: '2025'
   -bvYUPIAAAAJ:e5wmG9Sq2KIC:
@@ -55,22 +59,22 @@ papers:
     year: '2025'
   -bvYUPIAAAAJ:hC7cP41nSMkC:
     citations: 5
-    title: 'One Set to Rule Them All: How to Obtain General Chemical Conditions via Bayesian Optimization over Curried Functions'
+    title: 'One set to rule them all: How to obtain general chemical conditions via bayesian optimization over curried functions'
     year: '2025'
   -bvYUPIAAAAJ:mB3voiENLucC:
-    citations: 121
+    citations: 144
     title: 'El Agente: An autonomous agent for quantum chemistry'
     year: '2025'
   -bvYUPIAAAAJ:mVmsd5A6BfQC:
-    citations: 33
+    citations: 37
     title: "Computational Investigations of the Detailed Mechanism of Reverse Intersystem Crossing in Inverted Singlet\u2013Triplet Gap Molecules"
     year: '2024'
   -bvYUPIAAAAJ:qjMakFHDy7sC:
-    citations: 357
+    citations: 378
     title: 'Autonomous chemical experiments: Challenges and perspectives on establishing a self-driving lab'
     year: '2022'
   -bvYUPIAAAAJ:u-x6o8ySG0sC:
-    citations: 34
+    citations: 35
     title: "Iodoimidazolinium-catalyzed reduction of quinoline by Hantzsch ester: Halogen bond or Br\xF8nsted acid catalysis"
     year: '2019'
   -bvYUPIAAAAJ:u5HHmVD_uO8C:
